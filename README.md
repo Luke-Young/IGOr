@@ -1,0 +1,2 @@
+# IGOr
+Game-master assistant
